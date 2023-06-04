@@ -1,6 +1,6 @@
 # SnakeProject
-Done by Gil Arroteia and Jaime Silva
-Project done for the course LAP(Linguagens e Ambientes de Programação)
+Done by Gil Arroteia and Jaime Silva. 
+Project done for the course LAP(Linguagens e Ambientes de Programação). 
 This project is done in js and html, we couldn't add more than this 3 files and couldn't change the narcissa0.js file
 It consists in a snake game with a few twists:
 -There's Shrubs which grow at a random time and which will kill the snake if it trys to eat them;
